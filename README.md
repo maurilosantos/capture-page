@@ -1,11 +1,11 @@
 # Capture page
 ## Índice
 <!--ts-->
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Função](#Função)
-* [Tecnologias Utilizadas](#tecnologias-Utilizadas)
-* [Como acessar](#como-acessar)
-* [Autor](#autor)
+* [Descrição do Projeto](#descrição-do-projeto-)
+* [Função](#função-)
+* [Tecnologias Utilizadas](#tecnologias-utilizadas-)
+* [Como acessar](#como-acessar-)
+* [Autor](#autor-)
 <!--te-->
 
 
