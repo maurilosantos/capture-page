@@ -1,10 +1,12 @@
 # Capture page
 ## Índice
-* [Descrição do Projeto](Descrição-do-projeto)
-* [Função](Função)
-* [Tecnologias Utilizadas](Tecnologias-Utilizadas)
-* [Como acessar](Como-acessar)
-* [Autor](Autor)
+<!--ts-->
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Função](#Função)
+* [Tecnologias Utilizadas](#tecnologias-Utilizadas)
+* [Como acessar](#como-acessar)
+* [Autor](#autor)
+<!--te-->
 
 
 ![landing page](https://user-images.githubusercontent.com/109925535/185502051-46bef382-9ae5-4a93-9ea1-3fb28c4c2bfc.png)
