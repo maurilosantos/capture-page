@@ -85,6 +85,7 @@ footer{
 .description h3{
     font-size: 24px;
 }
+/* responsividade */
 @media screen and (max-width: 900px){
     .formContainer{
         float: none;
@@ -94,6 +95,13 @@ footer{
         right: 0;
         margin:auto;
     }
-    
-    
+}
+@media screen and (max-width: 450px){
+    .description{
+        
+        margin-left: 10px;
+    }
+    .picture{
+        margin-bottom: 270px;
+    }
 }
