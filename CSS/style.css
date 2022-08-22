@@ -105,3 +105,16 @@ footer{
         margin-bottom: 270px;
     }
 }
+@media screen and (max-width: 321px){
+    .description{
+        max-width: none;
+        margin: auto;
+        }
+        .description h3{
+            text-align: center;
+        }
+        .picture{
+            margin-bottom: 40px;
+        }
+
+}
